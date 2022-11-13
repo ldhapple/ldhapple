@@ -13,6 +13,3 @@
 # ✉Contact me<hr/>
 ⊙email: lucky77796@gmail.com
 
-⊙blog: https://ldhapple.tistory.com/
-
-⊙resume: notion
