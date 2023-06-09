@@ -16,5 +16,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lucky77796)](https://solved.ac/lucky77796)
 
 ### 📈 My GitHub Stats
-![KJY97's github stats](https://github-readme-stats.vercel.app/api?username=KJY97&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJY97&layout=compact) 
+![ldhapple's github stats](https://github-readme-stats.vercel.app/api?username=ldhapple&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldhapple&layout=compact) 
