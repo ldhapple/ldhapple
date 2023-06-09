@@ -9,7 +9,7 @@
 # Project<hr/>
 
 # Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldhapple)](https://github.com/ldhapple/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?useremail=lucky77795@naver.com)](https://github.com/ldhapple/github-readme-stats)
 , Framework, Tools.. My Skills<hr/>
 
 # ✉Contact me<hr/>
