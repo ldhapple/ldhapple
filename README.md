@@ -1,8 +1,8 @@
 # 👦About Me (Lee Do hyun, 이도현)<hr/>
 
-⊙🎓 Hoseo.Univ (2016.02 ~ 2020.02)
+⊙🎓 
 
-⊙🎓 KyungHee.Univ (2021.02 ~ 2023.08)
+⊙🎓 
 
 # Project<hr/>
 
