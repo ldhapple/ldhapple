@@ -19,6 +19,13 @@
 
   Department of **Department of Software Convergence**
 
+  ### 🚀 About Me
+
+- 안녕하세요! 백엔드 개발자 이도현 입니다.
+- [블로그](https://ldhapple.github.io/), [깃허브](https://github.com/ldhapple) 를 통해 **꾸준함을 증명**할 수 있습니다.
+- **모르는 것을 빠르게 질문**하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
+- 쉽고 간단한 코드가 유지보수하기 좋고 누구든지 이해할 수 있는, 좋은 코드라고 생각합니다.
+
   ## Intersted In
 
   :art: **Web Publishing**
@@ -42,18 +49,8 @@
   
   <br/>
   
-  ## GitHub Statistics
-
-  ![sunjh96's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldhapple&show_icons=true&theme=dracula&count_private=true&width=60%)　    
-
-  ## Algorithm
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lucky77796)](https://solved.ac/lucky77796)
-
   <br>
   
   ---
-  **Updated :** 2022-07-13 06:03
-
   </div>
 </div>
