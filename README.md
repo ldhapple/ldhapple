@@ -36,13 +36,6 @@
   ⚽ **Soccer**
 
   <br/>
-
-  ## Top Repositories
-
-  <div display=flex>
-    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ldhapple&repo=Webtoon_recommender_web&show_owner=true)](https://github.com/ldhapple/Webtoon_recommender_web)　
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ldhapple&repo=House_recommendation&show_owner=true)](https://github.com/ldhapple/House_recommendation)
   
   </div>
   
