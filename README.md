@@ -4,7 +4,7 @@
 
   <div align=left>
 
-  # 이도현 (DoHyum Lee)
+  # 이도현 (DoHyun Lee)
 
   [![Blog-Badge](https://img.shields.io/badge/-Blog-70CAC3?logo=jekyll&logoColor=white&style=flat)](https://ldhapple.github.io/)&ensp;
   [![Safari-Badge](https://img.shields.io/badge/-Protfolio-brightgreen?logo=Safari&logoColor=white&style=flat)](https://jjo-portfolio1.netlify.app/)&ensp;
@@ -13,11 +13,11 @@
 
   Admission to **Hoseo University**
   
-  Department of **Department of Games**
+  Department of **Games**
   
   Graduated From **Khyunghee University**
 
-  Department of **Department of Software Convergence**
+  Department of **Software Convergence**
 
   ### 🚀 About Me
 
