@@ -20,7 +20,7 @@
   # 이도현 (DoHyun Lee)
 
   [![Blog-Badge](https://img.shields.io/badge/-Blog-70CAC3?logo=jekyll&logoColor=white&style=flat)](https://ldhapple.github.io/)&ensp;
-  [![Safari-Badge](https://img.shields.io/badge/-Portfolio-brightgreen?logo=Safari&logoColor=white&style=flat)](https://www.notion.so/ldhapple/4d6db13b5a984bd1a6f128bce35e23b1?pvs=4)&ensp;
+  [![Safari-Badge](https://img.shields.io/badge/-Portfolio-brightgreen?logo=Safari&logoColor=white&style=flat)](https://www.notion.so/ldhapple/1f0bb8d23be080078e16de26bf9bf6cf?pvs=4)&ensp;
   [![Gmail-Badge](https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=flat)](mailto:lucky77796@gmail.com)&ensp;
   [![GitHub-Badge](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/ldhapple)
   
